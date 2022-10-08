@@ -30,10 +30,11 @@ $ hiscovid_v2 Japan "South Korea"
 $ hiscovid_v2 Japan Taiwan
 
 <img src="japan_taiwan.png" width="400">
-[](
-$ hiscovid_v2 Taiwan 'New Zealand'\
-<img src="taiwan_newzealand.png" width="400">\
-)
+
+<!--
+$ hiscovid_v2 Taiwan 'New Zealand'
+<img src="taiwan_newzealand.png" width="400">
+>
 $ hiscovid_v2 Taiwan 'United States' 'United Kingdom'
 
 <img src="taiwan_unitedstates_unitedkingdom.png" width="400">
