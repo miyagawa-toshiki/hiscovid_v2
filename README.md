@@ -21,7 +21,24 @@ https://covid.ourworldindata.org/data/owid-covid-data.csv
 $pip install hiscovid_v2
 
 # hiscovid_v2の実行方法
-hiscovid_v2 <国名>
+h iscovid_v2 <国名>
 
-hiscovid_v2 Japan "South Korea"
+$ hiscovid_v2 Japan "South Korea"
+<img src="japan4-7.png" width="400">
+
+$ hiscovid_v2 Japan "South Korea"
+<img src="japan4-7.png" width="400">
+
+$ hiscovid Japan Taiwan
+<img src="japan4-7.png" width="400">
+
+$ hiscovid Taiwan 'New Zealand'
+<img src="japan4-7.png" width="400">
+
+$ hiscovid Taiwan 'New Zealand'
+<img src="japan4-7.png" width="400">
+
+$ hiscovid Taiwan 'United States' 'United Kingdom'
+<img src="japan4-7.png" width="400">
+
 
