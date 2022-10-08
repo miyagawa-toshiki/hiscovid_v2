@@ -24,18 +24,18 @@ $pip install hiscovid_v2
 h iscovid_v2 <国名>
 
 $ hiscovid_v2 Japan "South Korea"
-<img src="japan4-7.png" width="400">
+<img src="japan_southkorea.png" width="400">
 
 $ hiscovid_v2 Japan Taiwan
-<img src="japan4-7.png" width="400">
+<img src="japan_taiwan.png" width="400">
 
 $ hiscovid_v2 Taiwan 'New Zealand'
 <img src="japan4-7.png" width="400">
 
 $ hiscovid_v2 Taiwan 'New Zealand'
-<img src="japan4-7.png" width="400">
+<img src="taiwan_newzealand.png" width="400">
 
 $ hiscovid_v2 Taiwan 'United States' 'United Kingdom'
-<img src="japan4-7.png" width="400">
+<img src="taiwan_unitedstates_unitedkingdom.png" width="400">
 
 
