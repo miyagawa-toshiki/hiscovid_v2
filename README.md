@@ -26,19 +26,16 @@ h iscovid_v2 <国名>
 $ hiscovid_v2 Japan "South Korea"
 <img src="japan4-7.png" width="400">
 
-$ hiscovid_v2 Japan "South Korea"
+$ hiscovid_v2 Japan Taiwan
 <img src="japan4-7.png" width="400">
 
-$ hiscovid Japan Taiwan
+$ hiscovid_v2 Taiwan 'New Zealand'
 <img src="japan4-7.png" width="400">
 
-$ hiscovid Taiwan 'New Zealand'
+$ hiscovid_v2 Taiwan 'New Zealand'
 <img src="japan4-7.png" width="400">
 
-$ hiscovid Taiwan 'New Zealand'
-<img src="japan4-7.png" width="400">
-
-$ hiscovid Taiwan 'United States' 'United Kingdom'
+$ hiscovid_v2 Taiwan 'United States' 'United Kingdom'
 <img src="japan4-7.png" width="400">
 
 
